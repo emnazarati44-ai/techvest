@@ -1,0 +1,9 @@
+bin/
+database/
+lib/
+*.class
+*.db
+.idea/
+*.iml
+out/
+.DS_Store
